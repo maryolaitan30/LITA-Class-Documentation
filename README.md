@@ -4,9 +4,9 @@
 
 [Project Overview](#project-overview)
 
-Data Sources
+[Data Sources](#data-sources)
 
-Tools Used
+[Tools Used](#tools-used)
 
 [Data Analysis](#data-analysis)
 
@@ -16,9 +16,10 @@ This project aims at injesting data,transformation of data, modeling, visualizat
 
 ### Data Sources
 ```
-Primary Source of Data used is Data Sale.csv(open source data, downloaded freely online.)
+Primary Source of Data used is Data Sale.csv, it is an open source data which can be downloaded freely online.
 
-### Tools Used
+
+###Tools Used
 ```
 - Microsoft Excel [Download Here](https;//www.microsoft.com)
   1. For Data Cleaning
