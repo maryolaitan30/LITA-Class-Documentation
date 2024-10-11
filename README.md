@@ -7,3 +7,12 @@ This project aims at injesting data,transformation of data, modeling, visualizat
 
 ### Data Sources
 Primary Source of Data used is Data Sale.csv(open source data, downloaded freely online.
+
+### Tools Used
+- Microsoft Excel 
+  1. For Data Cleaning
+  2. For Analysis
+  3. For Data Visualization
+     
+- SQL - Structured Query Language for Querying of Data
+- GitHub for Portfolio Building
