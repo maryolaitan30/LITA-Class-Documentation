@@ -9,10 +9,27 @@ This project aims at injesting data,transformation of data, modeling, visualizat
 Primary Source of Data used is Data Sale.csv(open source data, downloaded freely online.
 
 ### Tools Used
-- Microsoft Excel [Download Here](https://www.microsoft.com)
+- Microsoft Excel [Download Here](https;//www.microsoft.com)
   1. For Data Cleaning
   2. For Analysis
   3. For Data Visualization
      
 - SQL - Structured Query Language for Querying of Data
 - GitHub for Portfolio Building
+
+### Data Cleaning and Preparations
+The following action was performed in the initial stage of Data Cleaning;
+1. Data loading and Inspection
+2. Handling missing variables
+3. Data Cleaning and formatting
+
+### Exploratory Data Analysis
+This involved exploring of the Data to answer some questions about the Data such as,
+- what is the overall sales trend
+- Which product are top sellers
+- What are the products on peak sales?
+  
+
+
+
+   
