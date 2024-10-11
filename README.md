@@ -2,13 +2,21 @@
 
 ### Project Title: E commerce Sales Analysis
 
+[Project Overview](#project-overview)
+
+Data Sources
+
+Tools Used
+
+[Data Analysis](#data-analysis)
+
 ### Project Overview
 
 This project aims at injesting data,transformation of data, modeling, visualization, analyse data and present data in business organizations. This is achieved through operational and analytic systems making use of self service BI tools, Microsoft Excel, SQL, Tableau PostgreSQL, Python to mention a few.
 
 ### Data Sources
 ```
-Primary Source of Data used is Data Sale.csv(open source data, downloaded freely online.
+Primary Source of Data used is Data Sale.csv(open source data, downloaded freely online.)
 
 ### Tools Used
 ```
@@ -43,5 +51,10 @@ SELECT * FROM TABLE1
 WHERE CONDITION = TRUE
 ```
 
+### Data Visualization
 
+
+|Heading 1|Heading 2|Heading 3|
+|---------|---------|---------|
+|Table 1|Table 2|Table 3|
    
