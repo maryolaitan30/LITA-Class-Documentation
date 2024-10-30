@@ -26,7 +26,7 @@ Primary Source of Data used is Data Sale.csv, it is an open source data which ca
   2. For Analysis
   3. For Data Visualization
      
-- SQL - Structured Query Language for Querying of Data
+- SQL; Structured Query Language for Querying of Data
 - GitHub for Portfolio Building
 
 ### Data Cleaning and Preparations
