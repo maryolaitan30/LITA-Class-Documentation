@@ -28,6 +28,7 @@ Primary Source of Data used is Data Sale.csv, it is an open source data which ca
      
 - SQL; Structured Query Language for Querying of Data
 - GitHub for Portfolio Building
+- PowerBI 
 
 ### Data Cleaning and Preparations
 ```
@@ -53,7 +54,6 @@ SELECT * FROM TABLE1
 WHERE CONDITION = TRUE
 ```
 
-![59565351-7AF0-4992-B835-AEB2BEE253E6](https://github.com/user-attachments/assets/72646b71-69f7-4b9a-86f5-8258cb65003c)
 ![F1EE7EA7-C042-4E6D-BB76-70244C910D9D](https://github.com/user-attachments/assets/8b7414f9-54ea-4a28-880f-4cc759acb807)
 ![119BAE21-9674-4D21-AEAB-BB805AB27525](https://github.com/user-attachments/assets/4ef2435a-8514-4b27-9d51-a02d9b6b3ffb)
 ![8018C7AF-3252-4EA0-A4C2-DA1DC6C9BDDC](https://github.com/user-attachments/assets/1601a574-71c4-4597-a976-1241815d8452)
@@ -67,5 +67,8 @@ WHERE CONDITION = TRUE
 |Margret |25|Lagos|Administration|
 |Folake|24|Ibadan|HR|
 |Victoria|29|Abuja|Medical Sciences|
+
+![DDDFB6AD-89FB-4F2D-8854-7888A0853EC6](https://github.com/user-attachments/assets/a9592788-2a19-4912-9e36-d960706999df)
+
  
    
